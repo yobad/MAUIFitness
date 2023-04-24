@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net7.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiFitness_Asg2
+build_property.ProjectDir = C:\CodeRepos\ADIII23_Aref\MauiFitness_Asg2\MauiFitness_Asg2\
+
+[C:/CodeRepos/ADIII23_Aref/MauiFitness_Asg2/MauiFitness_Asg2/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiFitness_Asg2.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/CodeRepos/ADIII23_Aref/MauiFitness_Asg2/MauiFitness_Asg2/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiFitness_Asg2.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/CodeRepos/ADIII23_Aref/MauiFitness_Asg2/MauiFitness_Asg2/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiFitness_Asg2.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/CodeRepos/ADIII23_Aref/MauiFitness_Asg2/MauiFitness_Asg2/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiFitness_Asg2.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/CodeRepos/ADIII23_Aref/MauiFitness_Asg2/MauiFitness_Asg2/Views/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiFitness_Asg2.Views.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginPage.xaml
+
+[C:/CodeRepos/ADIII23_Aref/MauiFitness_Asg2/MauiFitness_Asg2/Views/MealsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiFitness_Asg2.Views.MealsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MealsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MealsPage.xaml
+
+[C:/CodeRepos/ADIII23_Aref/MauiFitness_Asg2/MauiFitness_Asg2/Views/MeasuresPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiFitness_Asg2.Views.MeasuresPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MeasuresPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MeasuresPage.xaml
+
+[C:/CodeRepos/ADIII23_Aref/MauiFitness_Asg2/MauiFitness_Asg2/Views/WorkoutsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiFitness_Asg2.Views.WorkoutsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\WorkoutsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\WorkoutsPage.xaml
